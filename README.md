@@ -25,3 +25,7 @@ sou um desenvolvedor front-end, atuando como web developer, tenho habilidades bo
 ###  4. Versionador:
 
 ![GitHub logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊5.GitHub Stats:
+
+![Status github](https://github-readme-stats.vercel.app/api?username=kssiodm&theme=blue-green)
