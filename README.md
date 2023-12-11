@@ -28,5 +28,5 @@ sou um desenvolvedor front-end, atuando como web developer, tenho habilidades bo
 
 ### 📊5.GitHub Stats:
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kssiodm&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kssiodm&hide_progress=true&theme=tokyonight)
