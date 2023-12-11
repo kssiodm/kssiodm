@@ -29,3 +29,4 @@ sou um desenvolvedor front-end, atuando como web developer, tenho habilidades bo
 ### 📊5.GitHub Stats:
 
 ![Status github](https://github-readme-stats.vercel.app/api?username=kssiodm&theme=blue-green)
+![stats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kssiodm&theme=blue-green)
